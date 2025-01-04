@@ -47,7 +47,8 @@ Start MongoDB with the database name: Project.
 The whole execution and preview of the project is done in a recorded version, which is available here:
 https://drive.google.com/file/d/1rFe_-x1DbEk4FG_zspfKTTkz6FAMuNl6/view
 
-
+Website Screenshots:
+https://drive.google.com/drive/folders/15NMLIm-N3vqgy0KxABDucr0hmVXxBo-v?usp=share_link
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
